@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Dental Clinic",
+  "description": "Landing page de lujo para Luxe Dental Clinic con galería de tratamientos, simulador de citas y generador de demo de HTML de un solo archivo para descarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
